@@ -1,0 +1,111 @@
+[
+  {
+    "id": 1,
+    "make": "Alfa Romeo",
+    "vehicleYears": [
+      {
+        "id": 1,
+        "year": 2021,
+        "vehicleModels": [
+          {
+            "id": 1,
+            "model": "Giulia Quadrifoglio",
+            "vehicleEngines": [
+              {
+                "id": 1,
+                "engine": "2.9T 670050436 510HP",
+                "vehicleTransmissions": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "year": 2020,
+        "vehicleModels": [
+          {
+            "id": 2,
+            "model": "Giulia Quadrifoglio",
+            "vehicleEngines": [
+              {
+                "id": 2,
+                "engine": "2.9T 670050436 510HP",
+                "vehicleTransmissions": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "year": 2019,
+        "vehicleModels": [
+          {
+            "id": 3,
+            "model": "Giulia Quadrifoglio",
+            "vehicleEngines": [
+              {
+                "id": 3,
+                "engine": "2.9T 670050436 510HP",
+                "vehicleTransmissions": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "year": 2018,
+        "vehicleModels": [
+          {
+            "id": 4,
+            "model": "Giulia Quadrifoglio",
+            "vehicleEngines": [
+              {
+                "id": 4,
+                "engine": "2.9T 670050436 510HP",
+                "vehicleTransmissions": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "year": 2017,
+        "vehicleModels": [
+          {
+            "id": 5,
+            "model": "Giulia Quadrifoglio",
+            "vehicleEngines": [
+              {
+                "id": 5,
+                "engine": "2.9T 670050436 510HP",
+                "vehicleTransmissions": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 6,
+        "year": 2016,
+        "vehicleModels": [
+          {
+            "id": 6,
+            "model": "Giulia Quadrifoglio",
+            "vehicleEngines": [
+              {
+                "id": 6,
+                "engine": "2.9T 670050436 510HP",
+                "vehicleTransmissions": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
